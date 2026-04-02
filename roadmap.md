@@ -8,11 +8,11 @@
 - [x] Centered window
 
 ## Version 2.0 — Feedback & Safety
-- [ ] Log area showing every file moved
-- [ ] Handle unknown file extensions
-- [ ] Skip already-organized folders
-- [ ] Error handling (permissions, missing files)
-- [ ] File counter summary ("Moved 12 files into 4 folders")
+- [x] Log area showing every file moved
+- [x] Handle unknown file extensions
+- [x] Skip already-organized folders
+- [x] Error handling (permissions, missing files)
+- [x] File counter summary ("Moved 12 files into 4 folders")
 
 ## Version 3.0 — Power Features
 - [ ] Undo button (move files back)

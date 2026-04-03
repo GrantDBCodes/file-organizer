@@ -15,11 +15,11 @@
 - [x] File counter summary ("Moved 12 files into 4 folders")
 
 ## Version 3.0 — Power Features
-- [ ] Undo button (move files back)
-- [ ] Custom categories (user can create/edit categories)
-- [ ] Custom extensions (user assigns extensions to categories)
-- [ ] Settings saved to a config file
-- [ ] Preview mode (show what WOULD happen before moving)
+- [x] Undo button (move files back)
+- [x] Custom categories (user can create/edit categories)
+- [x] Custom extensions (user assigns extensions to categories)
+- [x] Settings saved to a config file
+- [x] Preview mode (show what WOULD happen before moving)
 
 ## Version 4.0 — Modern UI
 - [ ] Colors, fonts, padding

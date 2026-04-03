@@ -1,0 +1,23 @@
+{
+    ".jpg": "Images",
+    ".jpeg": "Images",
+    ".png": "Images",
+    ".gif": "Images",
+    ".mp3": "Music",
+    ".wav": "Music",
+    ".mkv": "Videos",
+    ".mp4": "Videos",
+    ".avi": "Videos",
+    ".pdf": "Documents",
+    ".docx": "Documents",
+    ".xlsx": "Documents",
+    ".txt": "Documents",
+    ".zip": "Archives",
+    ".rar": "Archives",
+    ".7z": "Archives",
+    ".tar": "Archives",
+    ".torrent": "Torrents",
+    ".exe": "Applications",
+    ".py": "Python Code",
+    ".html": "HTML"
+}
